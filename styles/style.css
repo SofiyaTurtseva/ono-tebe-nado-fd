@@ -51,7 +51,7 @@
     padding: 165px 50px 50px;
     color: #fff;
     background-image: url(./../images/cover.jpg);
-    background-repeat: no-repeat; 
+    background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
 }
@@ -208,7 +208,7 @@
     display: grid;
     grid-template-columns: 334px 1fr;
     grid-template-rows: 596px 1fr;
-    column-gap: 25px; 
+    column-gap: 25px;
     padding: 0 24px 180px;
 }
 
