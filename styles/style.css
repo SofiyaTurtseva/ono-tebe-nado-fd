@@ -2,7 +2,7 @@
     display: grid;
     grid-template-columns: 1fr min-content 1fr;
     align-items: center;
-    padding: 92px 50px 96px;
+    padding: 90px 50px 91px;
 }
 
 .header__links-list {
@@ -30,7 +30,7 @@
 
 .header__logo {
     display: block;
-    width: 148px;
+    width: 137px;
 }
 
 .header__address {
@@ -48,7 +48,7 @@
 .cover {
     position: relative;
     z-index: 0;
-    padding: 165px 50px 50px;
+    padding: 159px 50px 50px;
     color: #fff;
     background-image: url(./../images/cover.jpg);
     background-repeat: no-repeat;
@@ -67,7 +67,7 @@
 .cover__title {
     font-weight: 700;
     font-size: 100px;
-    line-height: 115%;
+    line-height: 134%;
     letter-spacing: 0.3em;
 }
 
@@ -90,7 +90,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding-top: 106px;
+    padding-top: 97px;
     font-weight: 400;
     font-size: 22px;
     text-transform: uppercase;
@@ -209,7 +209,7 @@
     grid-template-columns: 334px 1fr;
     grid-template-rows: 596px 1fr;
     column-gap: 25px;
-    padding: 0 24px 180px;
+    padding: 0 24px 178px;
 }
 
 .about__column__left {
@@ -237,7 +237,7 @@
 .about__text {
     font-weight: 400;
     font-size: 20px;
-    line-height: 120%;
+    line-height: 119%;
 }
 
 .about__text__padding {
